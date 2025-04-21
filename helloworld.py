@@ -1,4 +1,4 @@
-for num in range (0,12,2):
+for num in range (0,13,2):
     if (num>10):
         print("Terence likes babies")
     elif (num%2):
